@@ -1,6 +1,7 @@
 -f https://download.pytorch.org/whl/nightly/cpu/torch_nightly.html
 torch_nightly
 -f https://github.com/fastai/fastai.git
+fastai
 starlette
 uvicorn
 python-multipart
