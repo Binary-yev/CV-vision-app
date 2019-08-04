@@ -8,7 +8,7 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-model_file_url = 'https://www.dropbox.com/s/bazjsq8h13uckm3/stage-1.pth?dl=1'
+model_file_url = 'https://www.dropbox.com/s/bazjsq8h13uckm3/stage-1.pth?raw=1'
 model_file_name = 'model'
 classes = ['HDR','NON_HDR']
 path = Path(__file__).parent
